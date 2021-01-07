@@ -1,0 +1,23 @@
+{
+  "name": "todo-list-api",
+  "version": "1.0.0",
+  "description": "A REST API made using Node.js and MongoDB that allows the user to create, manage, and store todo lists.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ianwood103/todo-list-api.git"
+  },
+  "keywords": [
+    "RESTful",
+    "API"
+  ],
+  "author": "Ian Wood",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ianwood103/todo-list-api/issues"
+  },
+  "homepage": "https://github.com/ianwood103/todo-list-api#readme"
+}
